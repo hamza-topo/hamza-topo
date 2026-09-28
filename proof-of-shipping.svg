@@ -137,7 +137,7 @@
     y="137"
     class="metric-value"
   >
-    0
+    1
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #101
+    proof-of-shipping · Release v1.0.0
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    Enforce relational integrity and transactional match crea…
+    Proof of Shipping v1.0.0
   </text>
 
   <text
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    7 shipping events
+    8 shipping events
   </text>
 </svg>
