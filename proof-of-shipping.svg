@@ -170,7 +170,7 @@
     y="137"
     class="metric-value"
   >
-    8
+    10
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #102
+    petmingle · PR #104
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    Simplify repository contracts and remove no-op implementa…
+    Complete critical unfinished application paths
   </text>
 
   <text
@@ -211,7 +211,7 @@
     y="260"
     class="delivery-date"
   >
-    Sep 28, 2026
+    Sep 30, 2026
   </text>
 
   <!-- Footer -->
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    9 shipping events
+    11 shipping events
   </text>
 </svg>
