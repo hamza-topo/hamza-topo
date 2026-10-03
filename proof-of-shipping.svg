@@ -170,7 +170,7 @@
     y="137"
     class="metric-value"
   >
-    11
+    12
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #105
+    petmingle · PR #106
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    Complete PetMingle web UI prototype
+    Harden API security and prepare React authentication cont…
   </text>
 
   <text
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    12 shipping events
+    13 shipping events
   </text>
 </svg>
