@@ -170,7 +170,7 @@
     y="137"
     class="metric-value"
   >
-    13
+    22
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #107
+    petmingle · PR #146
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    Integrate React bearer authentication flow
+    fix(security): harden pet upload validation and storage
   </text>
 
   <text
@@ -211,7 +211,7 @@
     y="260"
     class="delivery-date"
   >
-    Oct 3, 2026
+    Oct 5, 2026
   </text>
 
   <!-- Footer -->
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    14 shipping events
+    23 shipping events
   </text>
 </svg>
