@@ -170,7 +170,7 @@
     y="137"
     class="metric-value"
   >
-    22
+    40
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #146
+    petmingle · PR #164
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    fix(security): harden pet upload validation and storage
+    feat(messaging): persist unread and seen state
   </text>
 
   <text
@@ -211,7 +211,7 @@
     y="260"
     class="delivery-date"
   >
-    Oct 5, 2026
+    Oct 6, 2026
   </text>
 
   <!-- Footer -->
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    23 shipping events
+    41 shipping events
   </text>
 </svg>
