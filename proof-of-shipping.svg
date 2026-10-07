@@ -170,7 +170,7 @@
     y="137"
     class="metric-value"
   >
-    40
+    54
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #164
+    petmingle · PR #179
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    feat(messaging): persist unread and seen state
+    Choose discovery location with a city search and interact…
   </text>
 
   <text
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    41 shipping events
+    55 shipping events
   </text>
 </svg>
