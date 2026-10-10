@@ -170,7 +170,7 @@
     y="137"
     class="metric-value"
   >
-    54
+    56
   </text>
 
   <circle
@@ -195,7 +195,7 @@
     y="215"
     class="delivery-heading"
   >
-    petmingle · PR #179
+    petmingle · PR #181
   </text>
 
   <text
@@ -203,7 +203,7 @@
     y="238"
     class="delivery-description"
   >
-    Choose discovery location with a city search and interact…
+    Redesign Discovery around one pet profile and on-demand f…
   </text>
 
   <text
@@ -211,7 +211,7 @@
     y="260"
     class="delivery-date"
   >
-    Oct 6, 2026
+    Oct 9, 2026
   </text>
 
   <!-- Footer -->
@@ -229,6 +229,6 @@
     y="300"
     class="footer"
   >
-    55 shipping events
+    57 shipping events
   </text>
 </svg>
